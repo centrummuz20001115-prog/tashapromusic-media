@@ -1,0 +1,33 @@
+{
+  "brand": "TashaProMusic",
+  "description": "Kolory marki TashaProMusic — Centrum Rozwoju Muzycznego",
+  "palette": {
+    "background": {
+      "base":    "#0A0912",
+      "raised":  "#100D1E",
+      "surface": "#17132A"
+    },
+    "gold": {
+      "light": "#F4D98A",
+      "base":  "#E7C067",
+      "deep":  "#C1902F",
+      "gradient": "linear-gradient(135deg, #F4D98A 0%, #E7C067 45%, #C1902F 100%)"
+    },
+    "violet": {
+      "light": "#A78BFA",
+      "base":  "#8B5CF6",
+      "deep":  "#6D28D9",
+      "gradient": "linear-gradient(135deg, #A78BFA 0%, #8B5CF6 50%, #6D28D9 100%)"
+    },
+    "text": {
+      "cream": "#F6F1E7",
+      "body":  "#ECE7F5",
+      "muted": "#ADA6C2"
+    }
+  },
+  "typography": {
+    "display": "Cormorant Garamond",
+    "sans": "Manrope"
+  },
+  "subBrands": ["VIVAKIDS", "VIVA STAGE", "VIVA STUDIO"]
+}
